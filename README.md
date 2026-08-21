@@ -1,8 +1,7 @@
 # niszel-tries
 
-> Memorable developer positioning.
 
-Hi, I'm **niszel**, welcome to my profile.
+>Hi, I'm **niszel**, welcome to my profile.
 
 <p align="center">
   <picture>
@@ -12,35 +11,11 @@ Hi, I'm **niszel**, welcome to my profile.
 </p>
 ## About Me
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark" alt="niszel-tries about section" />
-  </picture>
-</p>
 ## Skills
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark" alt="niszel-tries stack section" />
-  </picture>
-</p>
-## Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=niszel-tries&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=niszel-tries&theme=github-dark" alt="niszel-tries projects section" />
-  </picture>
-</p>
-## Streak
-
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=niszel-tries&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=niszel-tries&theme=github-dark" alt="niszel-tries social section" />
   </picture>
 </p>

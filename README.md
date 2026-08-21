@@ -20,16 +20,12 @@ Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use,
     <img src="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark" alt="niszel-tries about section" />
   </picture>
 </p>
-## Heatmap
-
-## Streak
-
-## GitHub Stats
+## Skills
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niszel-tries&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=niszel-tries&theme=github-dark" alt="niszel-tries stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark" alt="niszel-tries stack section" />
   </picture>
 </p>
 ## Projects
@@ -40,14 +36,8 @@ Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use,
     <img src="https://www.gitskins.com/api/section/projects?username=niszel-tries&theme=github-dark" alt="niszel-tries projects section" />
   </picture>
 </p>
-## Skills
+## Streak
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark" alt="niszel-tries stack section" />
-  </picture>
-</p>
 ## Connect
 
 <p align="center">

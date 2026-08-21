@@ -1,16 +1,58 @@
-## Hi there 👋
+# niszel-tries
 
-<!--
-**niszel-tries/niszel-tries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Memorable developer positioning.
 
-Here are some ideas to get you started:
+## Header
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=niszel-tries&theme=github-dark" alt="niszel-tries hero section" />
+  </picture>
+</p>
+## About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark" alt="niszel-tries about section" />
+  </picture>
+</p>
+## Heatmap
+
+## Streak
+
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=niszel-tries&theme=github-dark" alt="niszel-tries stats section" />
+  </picture>
+</p>
+## Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=niszel-tries&theme=github-dark" alt="niszel-tries projects section" />
+  </picture>
+</p>
+## Skills
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark" alt="niszel-tries stack section" />
+  </picture>
+</p>
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=niszel-tries&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=niszel-tries&theme=github-dark" alt="niszel-tries social section" />
+  </picture>
+</p>

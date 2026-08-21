@@ -9,9 +9,6 @@
     <img src="https://www.gitskins.com/api/section/hero?username=niszel-tries&theme=github-dark" alt="niszel-tries hero section" />
   </picture>
 </p>
-## About Me
-
-## Skills
 
 <p align="center">
   <picture>

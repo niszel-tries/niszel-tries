@@ -2,9 +2,7 @@
 
 > Memorable developer positioning.
 
-
-
-Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **niszel**.
 
 <p align="center">
   <picture>

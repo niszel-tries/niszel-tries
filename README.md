@@ -2,7 +2,7 @@
 
 > Memorable developer positioning.
 
-Hi, I'm **niszel**.
+Hi, I'm **niszel**, welcome to my profile.
 
 <p align="center">
   <picture>

@@ -9,7 +9,7 @@
     <img src="https://www.gitskins.com/api/section/hero?username=niszel-tries&theme=github-dark" alt="niszel-tries hero section" />
   </picture>
 </p>
-<p height="24px">ABOUT ME:</p> <br>
+<h1>ABOUT ME:</h1> <br>
  <p> I'm a first year Computer science with big dreams, and goal to create stuff
 
 

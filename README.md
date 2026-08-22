@@ -1,6 +1,6 @@
 # niszel-tries
 
-> Hi, I'm **niszel**. i love to binge learn
+> Hi, I'm **Niszel**. i love to binge learn
 
 <p align="center">
   <picture>

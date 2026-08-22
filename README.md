@@ -1,10 +1,6 @@
 # niszel-tries
 
-> Memorable developer positioning.
-
-## Header
-
-Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+> Hi, I'm **niszel-tries**. i love to binge learn
 
 <p align="center">
   <picture>
@@ -12,7 +8,7 @@ Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use,
     <img src="https://www.gitskins.com/api/section/hero?username=niszel-tries&theme=github-dark" alt="niszel-tries hero section" />
   </picture>
 </p>
-## About Me
+
 
 <p align="center">
   <picture>
@@ -20,11 +16,6 @@ Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use,
     <img src="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark" alt="niszel-tries about section" />
   </picture>
 </p>
-## Heatmap
-
-## Streak
-
-## Skills
 
 <p align="center">
   <picture>
@@ -32,7 +23,6 @@ Hi, I'm **niszel-tries**. This README shares what I'm building, the tools I use,
     <img src="https://www.gitskins.com/api/section/stack?username=niszel-tries&theme=github-dark" alt="niszel-tries stack section" />
   </picture>
 </p>
-## Connect
 
 <p align="center">
   <picture>

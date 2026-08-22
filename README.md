@@ -8,6 +8,7 @@
   </picture>
 </p>
 >I'm currently learning and exploring and immersing myself different field in tech. But one thing I'm sure of is how I want to build things using the skills that I am learning.
+>Hi, I'm **niszel-tries**. i love to binge learn
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=niszel-tries&theme=github-dark&mode=light" />

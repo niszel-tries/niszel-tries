@@ -1,6 +1,6 @@
 # niszel-tries
 
-> Hi, I'm **Niszel**. i love to binge learn
+> Hi, I'm **Niszel**. i love to binge learn. Currently a freshman CS building some hands-on skills
 
 <p align="center">
   <picture>
